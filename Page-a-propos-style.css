@@ -1,0 +1,11 @@
+/*Style de l'image*/
+
+img{
+    width:70px;
+    height:75px;
+}
+/*Style du paragraphe*/
+p{
+    font-size:33px;
+    font-family:"Open Sans";
+}

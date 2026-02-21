@@ -1,0 +1,13 @@
+/* Style du paragraphe */
+
+p{
+    font-size:42px;
+    font-family:'Open Sans';
+}
+
+
+/* Style de la liste non-oordonnée */
+ul{
+    font-size:42px;
+    font-family:'Open Sans';
+}

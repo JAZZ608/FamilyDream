@@ -1,0 +1,17 @@
+/*Style du troisième titre */
+
+h2{
+    color:red;
+    text-align: left; 
+    font-family: 'Open Sans';
+    font-size:40px;
+}
+
+
+/*Style du paragraphe */
+
+p{
+    text-align: left;
+    font-family: 'Open Sans';
+    font-size:25px; 
+}
