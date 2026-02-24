@@ -1,3 +1,8 @@
+/*Style du logo*/
+d{
+    widht:60px;
+    height:65px;
+}
 /* Style du paragraphe */
 
 p{
@@ -10,4 +15,5 @@ p{
 ul{
     font-size:42px;
     font-family:'Open Sans';
+
 }
