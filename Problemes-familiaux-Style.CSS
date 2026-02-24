@@ -1,5 +1,11 @@
+/*Style du logo*/
+c{
+    weight:60px;
+    hight:65px;
+}
 /*Style du paragraphe*/
 p{
     font-size: 42px;
     font-family:'Open Sans';
+
 }
