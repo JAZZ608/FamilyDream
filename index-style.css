@@ -1,5 +1,9 @@
 /*Style du troisième titre */
 
+a{
+    width:60px;
+    height:65px;
+}
 h2{
     color:red;
     text-align: left; 
@@ -14,4 +18,5 @@ p{
     text-align: left;
     font-family: 'Open Sans';
     font-size:25px; 
+
 }
