@@ -1,3 +1,9 @@
+/*Style du logo*/
+
+d{
+    width:60px;
+    height:65px;
+}
 /*Style du troisième titre */
 
 a{
@@ -20,3 +26,4 @@ p{
     font-size:25px; 
 
 }
+
